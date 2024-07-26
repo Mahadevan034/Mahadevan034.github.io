@@ -237,3 +237,7 @@ a:link{
     bottom: 35%;
     left: 7%;
   }
+  html
+  {
+   scroll-behavior: smooth;
+  }
