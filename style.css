@@ -1,0 +1,239 @@
+
+ 
+ #n,body{
+    background-color: rgb(179, 240, 243);
+    height: 100px;
+    width: 100%;
+    overflow-x: hidden;
+    
+    color:black;
+ }
+ ul{
+    
+    list-style-type: none;
+    display: flex;
+    padding-top: 19px;
+    justify-content: space-evenly;
+ }
+ a{
+    text-decoration: none;
+    color: black;
+ }
+ #home:hover,
+ #about:hover,
+ #skill:hover,
+ #project:hover,
+ #contact:hover,
+ #name:hover
+ {
+    font-size: 17px;
+   scale: 2.5;
+   color: black;
+   transition: 0.7s;
+   /* transform: rotate(720deg); */
+ }
+#tot
+{
+    display: flex;
+    
+}
+
+#pa{
+    width: 20%;
+    background-color: rgb(179, 240, 243);
+    text-align: center;
+    padding-top: 22px;
+    
+}
+a:link{
+   color:black;
+   background-color: transparent;
+   text-decoration: none;
+}
+#hi
+{
+   padding-top: 90px;
+   padding-left: 5cm;
+   font-weight: bold;
+   font-size: 18px;
+   color: darkblue;
+}
+ 
+
+#par
+{
+   margin-bottom: 0px;
+   padding-left: 5cm;
+
+}
+#na
+{
+  padding-left: 5cm;
+  font-size: 30px;
+  font-weight: bold;
+}
+ 
+ #download,
+ #explore
+ {
+   background-color: rgb(69, 123, 157);
+   border: solid 0px;
+    
+    
+ }
+ /* #down
+ {
+   display: flex;
+   
+ } */
+  #download 
+  {
+   position: absolute;
+   left: 15%;
+   width: 15%;
+   height: 12%;
+  }
+  #explore
+  {
+   position: absolute;
+   left: 35%;
+   width: 12%;
+   height: 12%;
+  }
+  #sec
+  {
+   display: flex;
+   
+  }
+  
+  #image
+  {
+   position: absolute;
+   top: 20%;
+   left: 52%;
+   width: 30%;
+   height: 30px;
+    
+
+  }
+  #sec
+  {
+   display: flex;
+   height: 700px;
+  }
+  #down1
+  {
+     padding-left: 1px;
+     text-align: left;
+  }
+  #inner
+  {
+   width:700px;
+  }
+  #img2
+  {
+   position: absolute;
+   left: 70%;
+   bottom: 25%;
+  }
+  #timag
+  {
+   width: 20 %;
+   height: 20%;
+   scale:1.5;
+  }
+   
+.white
+{
+   display: flex;
+   position: absolute;
+   top:100%;
+   background-color: white;
+   width: 100%;
+   height: 500px;
+}
+#p2
+{
+   position: absolute;
+   left: 4cm;
+   top: 2cm;
+}
+#p3
+{
+   width: 400px;
+   position: absolute;
+   bottom: 30%;
+   left: 55%;
+   
+}
+#par1
+{
+   position: absolute;
+   bottom:70%;
+   font-size: 150%;
+}
+#about1
+{
+   position:absolute;
+   left: 60%;
+   bottom: 82%;
+   font-size: 200%;
+   font: bold;
+}
+  #fourth
+  {
+   position:absolute;
+   top: 178%;
+   background-color: rgb(179, 240, 243);
+   width: 100%;
+   height: 500px;
+  }
+  #image33
+  {
+   position: absolute;
+   top: 50%;
+   left: 25%;
+   width: 45%;
+  }
+  #cap
+  {
+   position: absolute;
+   top: 23%;
+   left: 35%;
+   font-size: 1.1cm;
+  }
+  #sk
+  {
+   position: absolute;
+   top: 20%;
+   color: rgb(2, 19, 24);
+   left: 45%;
+   font-size: 1cm;
+  }
+  #five
+  {
+   background-color: rgb(179, 240, 243);
+   position: absolute;
+   width: 100%;
+   height: 50%;
+   top: 250%;
+   left: 15%;
+  }
+  #lim  
+  {
+   width: 6%;
+   
+    
+  }
+  #lim:hover
+  {
+      transition: 0.5s;
+  }
+  #lim1
+  {
+   width: 6%;
+    height: 21%;
+    position: absolute;
+    bottom: 35%;
+    left: 7%;
+  }
